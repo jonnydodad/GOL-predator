@@ -1,5 +1,5 @@
 # Conway's Game of Life predator version
-
+play-> https://codepen.io/jon_coe/details/JrYRzE/
 
 forked from Eric Onarheim
 ### About
